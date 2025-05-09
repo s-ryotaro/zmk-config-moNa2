@@ -6,6 +6,8 @@
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 100
 #define MOUSE 6
 
+///test
+
 &mt {
     flavor = "balanced";
     quick-tap-ms = <0>;
